@@ -20,3 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+.tabela-categoria tr > th:last-child, 
+.tabela-categoria tr > td:last-child
+{
+    width:1%;
+    white-space: nowrap;
+    text-align:center;
+}

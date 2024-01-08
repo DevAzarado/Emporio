@@ -1,0 +1,12 @@
+C:\Emporio\Core\bin\Debug\net7.0\Core.deps.json
+C:\Emporio\Core\bin\Debug\net7.0\Core.dll
+C:\Emporio\Core\bin\Debug\net7.0\Core.pdb
+C:\Emporio\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emporio\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Emporio\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Emporio\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Emporio\Core\obj\Debug\net7.0\Core.sourcelink.json
+C:\Emporio\Core\obj\Debug\net7.0\Core.dll
+C:\Emporio\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Emporio\Core\obj\Debug\net7.0\Core.pdb
+C:\Emporio\Core\obj\Debug\net7.0\ref\Core.dll
